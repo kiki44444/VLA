@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Datasets
+*.npy
+*.npz
+
+# Experiment outputs
+outputs/
+checkpoints/
+logs/
+runs/
+wandb/
+
+# Isaac Sim
+.kit/
+*.log
+
+# OS
+.DS_Store
